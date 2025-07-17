@@ -10,13 +10,11 @@
 
 🎓 **B.Tech Graduate from IIIT Kottayam**
 
-🌱 I'm currently learning **Advanced React Patterns, Node.js, and AI/ML Integration**
+🌱 I'm currently working on **Advanced React Patterns, Golang, AI-integeration & MCPs**
 
-💬 Ask me about **JavaScript, React, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
+💬 Ask me about **Typescript, JavaScript, React, Golag, Java, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
 
 📫 How to reach me: **Contact me through my social links below**
-
-⚡ Fun fact: **I love turning coffee into code and creating digital experiences that users love!**
 
 ---
 
