@@ -139,15 +139,6 @@ code-graph-generator --input ./src --output ./graph.json
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-s12345&theme=react-dark&hide_border=true" alt="aman-s12345" />
 </p>
 
----
-
-
-
-<p align="center">
-<img src="https://github.com/Aman-s12345/Aman-s12345/raw/main/assets/algorithms.gif" alt="Algorithms" width="400" onerror="this.src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif'" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
