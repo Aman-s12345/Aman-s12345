@@ -141,23 +141,7 @@ code-graph-generator --input ./src --output ./graph.json
 
 ---
 
-## 💻 Code in Action
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=200&lines=const+developer+%3D+%7B;++name%3A+'Aman+Singh'%2C;++location%3A+'Bangalore%2C+India'%2C;++company%3A+'Metadome.ai'%2C;++skills%3A+%5B'JavaScript'%2C+'React'%2C+'Node.js'%5D%2C;++passion%3A+'Building+amazing+web+experiences';%7D%3B;console.log('Welcome+to+my+profile!'+%F0%9F%91%8B)%3B" alt="Typing SVG" />
-</p>
-
----
-
-## 🚀 Terminal Commands
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&height=100&lines=npm+install+code-graph-generator;git+clone+https%3A%2F%2Fgithub.com%2FAman-s12345;cd+awesome-project+%26%26+npm+start;Building+the+future%2C+one+line+at+a+time...+%F0%9F%92%BB" alt="Terminal Commands" />
-</p>
-
----
-
-## 🎯 Algorithm Visualization
 
 <p align="center">
 <img src="https://github.com/Aman-s12345/Aman-s12345/raw/main/assets/algorithms.gif" alt="Algorithms" width="400" onerror="this.src='https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif'" />
@@ -169,15 +153,4 @@ code-graph-generator --input ./src --output ./graph.json
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-<div align="center">
 
-### 💡 *"The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer."*
-#### - Edsger W. Dijkstra
-
----
-
-**✨ Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-*Happy Coding! 😊*
-
-</div>
