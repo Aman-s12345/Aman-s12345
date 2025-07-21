@@ -90,25 +90,6 @@ code-graph-generator --input ./src --output ./graph.json
 ```
 
 ---
-
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/aman-singh-29055223b/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-29055223b" height="30" width="40" />
-</a>
-<a href="https://github.com/Aman-s12345/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aman-s12345" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/its__aman10/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its__aman10" height="30" width="40" />
-</a>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-
