@@ -107,37 +107,6 @@ code-graph-generator --input ./src --output ./graph.json
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-s12345&show_icons=true&locale=en&layout=compact&theme=radical" alt="aman-s12345" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aman-s12345&show_icons=true&locale=en&theme=radical" alt="aman-s12345" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aman-s12345&theme=radical" alt="aman-s12345" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aman-s12345&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="aman-s12345" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-s12345&theme=react-dark&hide_border=true" alt="aman-s12345" />
-</p>
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
