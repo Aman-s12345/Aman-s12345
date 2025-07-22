@@ -18,6 +18,24 @@
 
 ---
 
+## 📊 GitHub Activity & Contributions
+
+<div align="center">
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-s12345&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true)
+
+### 📊 GitHub Statistics
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-s12345&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-s12345&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aman-s12345&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4)
+
+</div>
+
+---
+
 ## 🛠️ Skills Summary
 
 ### 💻 **Languages**
