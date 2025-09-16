@@ -12,7 +12,7 @@
 
 🌱 I'm currently working on **Advanced React Patterns, Golang, AI-integeration & MCPs**
 
-💬 Ask me about **Typescript, JavaScript, React, Golag, Java, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
+💬 Ask me about **Typescript, JavaScript, React, Go, Java, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
 
 📫 How to reach me: [amans.site](https://amans.site)
 
