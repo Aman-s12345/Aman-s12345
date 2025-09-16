@@ -14,7 +14,7 @@
 
 💬 Ask me about **Typescript, JavaScript, React, Golag, Java, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
 
-📫 How to reach me: **Contact me through my social links below**
+📫 How to reach me: [amans.site](https://amans.site)
 
 ---
 
