@@ -22,8 +22,6 @@
 
 <div align="center">
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aman-s12345&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true)
 
 ### 📊 GitHub Statistics
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-s12345&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -84,28 +82,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
 </p>
 
----
-
-## 🌟 Open Source Contributions
-
-### 🔗 [Code Graph Generator](https://github.com/Aman-s12345/code-graph-generator) 
-**NPM Package for Code Analysis** | **[📦 Published on NPM](https://www.npmjs.com/package/code-graph-generator)**
-
-*Node.js, TypeScript, JavaScript, Babel AST, React Analysis, Static Code Analysis*
-
-- 🔍 Developed and published a **static code analysis tool** on **NPM** that generates detailed code structure graphs for **JavaScript/TypeScript** projects, capable of efficiently processing large codebases with **1000+ files**
-
-- ⚛️ Engineered **React-aware analysis** using **Babel AST parsing** to detect components, hooks, and dependency relationships while providing **CLI support** and integration with visualization tools like **D3.js and Mermaid.js**
-
-- 📊 Features include dependency mapping, code complexity analysis, and interactive graph generation for better code understanding and maintenance
-
-```bash
-# Install the package
-npm install -g code-graph-generator
-
-# Generate code graph for your project
-code-graph-generator --input ./src --output ./graph.json
-```
 
 ---
 <p align="center">
