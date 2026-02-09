@@ -1,89 +1,157 @@
-# Hi 👋, I'm Aman Singh
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=aman-s12345&label=Profile%20views&color=6366f1&style=for-the-badge)
 
-<h3 align="center">A passionate Web Developer & B.Tech Graduate from India 🇮🇳</h3>
+</div>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aman-s12345&label=Profile%20views&color=0e75b6&style=flat" alt="aman-s12345" /> </p>
-
-🌟 **Currently working at [Metadome.ai](https://metadome.ai) - Building the future of AI-powered solutions**
-
-🎓 **B.Tech Graduate from IIIT Kottayam**
-
-🌱 I'm currently working on **Advanced React Patterns, Golang, AI-integeration & MCPs**
-
-💬 Ask me about **Typescript, JavaScript, React, Go, Java, Node.js, HTML/CSS, Web Development, and Frontend Architecture**
-
-📫 How to reach me: [amans.site](https://amans.site)
-
----
-
-## 📊 GitHub Activity & Contributions
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=40&center=true&vCenter=true&width=600&height=100&duration=3000&lines=✨+HELLO+WORLD!+✨;⚡+I'M+AMAN+SINGH+⚡;💻+WEB+DEVELOPER+💻;🚀+BUILDING+THE+FUTURE+🚀&color=a855f7&background=0f0f23FF" />
+</h1>
 
 <div align="center">
+  
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  🌟 WEB DEVELOPER | INDIA 🇮🇳 | B.TECH GRADUATE            ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
-### 📊 GitHub Statistics
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aman-s12345&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-s12345&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117"/>
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aman-s12345&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=4)
+<div align="center">
+  
+### 🔥 **CURRENTLY WORKING AT:** [`Metadome.ai`](https://metadome.ai) - Building AI-powered solutions 🚀
+### 🎓 **B.Tech Graduate from IIIT Kottayam**
+### 💡 **BUILDING:** `Advanced React Patterns, Golang, AI-Integration & MCPs` ⚡
 
 </div>
 
 ---
 
-## 🛠️ Skills Summary
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span style="color: #8b5cf6;">CONNECT WITH ME</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
 
-### 💻 **Languages**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=todoist&logoColor=white&labelColor=1e1b4b)](https://amans.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1b4b)](https://linkedin.com/in/aman-s12345/)
+[![Gmail](https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:your-email@gmail.com)
 
-### 🚀 **Technologies & Frameworks**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-</p>
-
-### 🔧 **Tools & Platforms**
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-
-### 🗄️ **Databases**
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-</p>
-
+</div>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+  <span style="color: #06b6d4;">TECH ARSENAL</span>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+</h2>
+
+<div align="center">
+
+**🔥 LANGUAGES**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f59e0b?style=for-the-badge&logo=javascript&logoColor=1e1b4b&labelColor=fbbf24)
+![TypeScript](https://img.shields.io/badge/TypeScript-3b82f6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1e1b4b)
+![Go](https://img.shields.io/badge/Go-06b6d4?style=for-the-badge&logo=go&logoColor=white&labelColor=1e1b4b)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1e1b4b)
+![Python](https://img.shields.io/badge/Python-3b82f6?style=for-the-badge&logo=python&logoColor=white&labelColor=1e1b4b)
+![C++](https://img.shields.io/badge/C++-6366f1?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1e1b4b)
+![C](https://img.shields.io/badge/C-3b82f6?style=for-the-badge&logo=c&logoColor=white&labelColor=1e1b4b)
+![HTML5](https://img.shields.io/badge/HTML5-ef4444?style=for-the-badge&logo=html5&logoColor=white&labelColor=1e1b4b)
+![CSS3](https://img.shields.io/badge/CSS3-3b82f6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1e1b4b)
+
+**🚀 FRONTEND & FRAMEWORKS**
+
+![React](https://img.shields.io/badge/React-06b6d4?style=for-the-badge&logo=react&logoColor=white&labelColor=1e1b4b)
+![Next.js](https://img.shields.io/badge/Next.js-1e1b4b?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-8b5cf6?style=for-the-badge&logo=redux&logoColor=white&labelColor=1e1b4b)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06b6d4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1e1b4b)
+![Material UI](https://img.shields.io/badge/Material_UI-3b82f6?style=for-the-badge&logo=mui&logoColor=white&labelColor=1e1b4b)
+
+**⚡ BACKEND POWER**
+
+![Node.js](https://img.shields.io/badge/Node.js-10b981?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1e1b4b)
+![Express.js](https://img.shields.io/badge/Express.js-6b7280?style=for-the-badge&logo=express&logoColor=white&labelColor=1e1b4b)
+
+**🗄️ DATABASES & CLOUD**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-10b981?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1e1b4b)
+![MySQL](https://img.shields.io/badge/MySQL-3b82f6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1e1b4b)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6366f1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1e1b4b)
+![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=1e1b4b)
+![Oracle](https://img.shields.io/badge/Oracle-ef4444?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1e1b4b)
+![AWS](https://img.shields.io/badge/AWS-f59e0b?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1e1b4b)
+![GCP](https://img.shields.io/badge/GCP-3b82f6?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=1e1b4b)
+
+**🛠️ TOOLS & PLATFORMS**
+
+![Docker](https://img.shields.io/badge/Docker-06b6d4?style=for-the-badge&logo=docker&logoColor=white&labelColor=1e1b4b)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-3b82f6?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1e1b4b)
+![Git](https://img.shields.io/badge/GIT-ef4444?style=for-the-badge&logo=git&logoColor=white&labelColor=1e1b4b)
+![GitHub](https://img.shields.io/badge/GitHub-6b7280?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1b4b)
+![GitLab](https://img.shields.io/badge/GitLab-f97316?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1e1b4b)
+![Linux](https://img.shields.io/badge/Linux-f59e0b?style=for-the-badge&logo=linux&logoColor=1e1b4b&labelColor=fbbf24)
+![Postman](https://img.shields.io/badge/Postman-f97316?style=for-the-badge&logo=postman&logoColor=white&labelColor=1e1b4b)
+![Hadoop](https://img.shields.io/badge/Hadoop-f59e0b?style=for-the-badge&logo=apachehadoop&logoColor=white&labelColor=1e1b4b)
+
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+  <span style="color: #8b5cf6;">ACHIEVEMENTS UNLOCKED</span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  <span style="color: #10b981;">GITHUB MATRIX</span>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+</h2>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aman-s12345/aman-s12345/output/github-snake.svg" alt="GitHub Snake Animation" />
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-s12345&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aman-s12345&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a" alt="Aman's GitHub Stats" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-s12345&layout=compact&hide_border=true&title_color=8b5cf6&text_color=06b6d4&bg_color=0f172a&langs_count=8" />
+
+</div>
+
+---
+
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=25&center=true&vCenter=true&width=700&height=80&duration=3500&lines=⚡+THANKS+FOR+VISITING+MY+DIGITAL+REALM!+⚡;🚀+LET'S+BUILD+SOMETHING+AMAZING+TOGETHER!+🚀;💻+OPEN+TO+COLLABORATIONS+%26+OPPORTUNITIES+💻;🌟+KEEP+CODING%2C+KEEP+CREATING!+🌟&color=a855f7&background=0f0f23FF" />
+
+</div>
+
+<div align="center">
+  
+```ascii
+╭─────────────────────────────────────────────────────────────╮
+│  ⚡ "BUILDING THE FUTURE WITH AI-POWERED SOLUTIONS"        │  
+│        ~ Aman Singh • Web Developer @ Metadome.ai ~         │
+╰─────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,18&height=150&section=footer&text=KEEP%20CODING!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+</div>
