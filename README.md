@@ -103,7 +103,6 @@
 
 </div>
 
----
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35">
   <span style="color: #8b5cf6;">ACHIEVEMENTS UNLOCKED</span>
@@ -111,9 +110,11 @@
 </h2>
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
----
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2&limit=3" alt="GitHub Trophies" />
+</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -129,12 +130,10 @@
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-s12345&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aman-s12345&show_icons=true&count_private=true&hide_border=true&title_color=8b5cf6&icon_color=06b6d4&text_color=e2e8f0&bg_color=0f172a" alt="Aman's GitHub Stats" />
 <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman-s12345&layout=compact&hide_border=true&title_color=8b5cf6&text_color=06b6d4&bg_color=0f172a&langs_count=8" />
 
 </div>
 
----
 
 <div align="center">
   
