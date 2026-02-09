@@ -112,9 +112,6 @@
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=aman-s12345&theme=discord&no-frame=false&no-bg=true&margin-w=4&row=2&limit=3" alt="GitHub Trophies" />
-</div>
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -129,8 +126,6 @@
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aman-s12345&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aman-s12345&layout=compact&hide_border=true&title_color=8b5cf6&text_color=06b6d4&bg_color=0f172a&langs_count=8" />
 
 </div>
 
