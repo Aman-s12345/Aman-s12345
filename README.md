@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### 🔥 **CURRENTLY WORKING AT:** [`INDMoney`](https://www.indmoney.com/) - Building Remittance | US Stock 🚀
+### 🔥 **CURRENTLY WORKING AT:** [`INDMoney`](https://www.indmoney.com/) - Building Remittance 🚀
 ### 🎓 **B.Tech Graduate from IIIT Kottayam**
 ### 💡 **BUILDING:** `Distributed Systems • Cross-Border Transfers • US Stock` ⚡
 
