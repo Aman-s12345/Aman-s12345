@@ -20,7 +20,7 @@
 
 <div align="center">
   
-### 🔥 **CURRENTLY WORKING AT:** [`Findoc`](https://www.findoc.com/) - Building Fintech + AI solutions 🚀
+### 🔥 **CURRENTLY WORKING AT:** [`INDMoney`](https://www.indmoney.com/) - Building Remittance | US Stock 🚀
 ### 🎓 **B.Tech Graduate from IIIT Kottayam**
 ### 💡 **BUILDING:** `Go Servers, Advanced React Patterns, AI-Integration & MCPs` ⚡
 
